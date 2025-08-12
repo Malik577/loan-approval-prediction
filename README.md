@@ -243,6 +243,4 @@ loan-approval-prediction/
 
 ---
 
-**Contact**: For enterprise implementation and customization inquiries, please reach out through the repository issues or contact the development team.
-
-**Disclaimer**: This model is designed for preliminary screening. Final lending decisions should incorporate additional due diligence and human oversight as required by applicable regulations. 
+**Contact**: For enterprise implementation and customization inquiries, please reach out through the repository issues or contact the development team. 
